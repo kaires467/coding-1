@@ -24,4 +24,4 @@ membershipsilvergym=30
 pricedrinkrestuarant= 3
 shortsstacker= 1
 mialen= 2
-stackshot= 100
+stackshot= 100 
