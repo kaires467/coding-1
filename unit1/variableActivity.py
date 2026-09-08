@@ -1,4 +1,4 @@
-#VARIABLES-a container that store data. i can
+# VARIABLES-a container that store data. i can
 # name your container almost anything you want so long
  # as its descriptive.
 
@@ -16,12 +16,17 @@
  # 2. A varible can be a mixed of letters and numbers But not symbols 
  # 3. A Varible cannot be a python keyword
 
-storeapplecount=50
-mathstudentclass=30
-addedtravalinsurancetrip=100
+storeapplecount= 50
+mathstudentclass= 30
+addedtravalinsurancetrip= 100
 goldmembershipgym= 35
-membershipsilvergym=30
+membershipsilvergym= 30
 pricedrinkrestuarant= 3
 shortsstacker= 1
 mialen= 2
 stackshot= 100 
+
+# camel case-when creating variable names with multiple words
+# every new word begins with a capital letter 
+# the reason why its called camel case is because every new word 
+# repersent a hump
